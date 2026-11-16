@@ -160,6 +160,18 @@ The application is deployed on **Render**, with TiDB Cloud used for database hos
 
 ---
 
+
+## 📸 Application Preview
+
+![Screenshot 1](screenshots/Screenshot%20(1366).png)
+
+![Screenshot 2](screenshots/Screenshot%20(1367).png)
+
+![Screenshot 3](screenshots/Screenshot%20(1368).png)
+
+![Screenshot 4](screenshots/Screenshot%20(1369).png)
+
+
 ### Built With Python & AI
 
 Developed as a project exploring AI integration, web application development, database management, and personalized career guidance.
